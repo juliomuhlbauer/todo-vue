@@ -1,1 +1,1 @@
-Vue.js project with a simple to-do list
+Vue.js project with a persisted to-do list with local storage
